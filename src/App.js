@@ -7,6 +7,9 @@ function App() {
       <div style={{backgroundColor:"gray"}}>
         <h1 style={{color:"blue"}}>Sky is Blue</h1>
       </div>
+      <div>
+        <h2>Vaibhav is the good Boy!</h2>
+      </div>
     </div>
   );
 }
